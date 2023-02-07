@@ -58,7 +58,7 @@
   </div>
 
   <div>
-  <p class="text-center bg-dark text-white">Shubham Kumar - +91-9902477354, gchandana7799@gmail.com<br>Rithish Reddy - +91-9380073437, rithishreddy7007@gmail.com<br>Jasti SriHarsha - +91-9110342158, sri814823@gmail.com<br>Balaji Subhash - +91-7036739735, gbalajisubash@gmail.com<br>Bhaskar SaiRam - +91-8374827408, k.bsairam1210@gmail.com
+  <p class="text-center bg-dark text-white">shubham kumar - +91-8340781929, shubham7799@gmail.com<br>abhishek kumar jha - +91-6207839046, abhi7007@gmail.com<br>shivani singh - +91-9341406694, shiv814823@gmail.com<br>vishal gour - +91-6201624537, vishal@gmail.com
   </p>
   <a href="contact.php"> </a>
 </div>
